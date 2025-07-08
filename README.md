@@ -1,4 +1,4 @@
- Future Engineer 2025 – Team #1 – Colegio De La Salle
+ Future Engineer 2025 – Team los elfos de la salle – Colegio De La Salle
 
 ---
 
@@ -50,7 +50,7 @@ We almost burned the new motor during one test with the new battery’s higher p
 
 ## 3. Motivation
 
-The motivation for participating in **WRO 2024** was clear and exciting: to experience a robotics competition for the first time and to represent our school in the **Future Engineers** category.  
+The motivation for participating in **WRO 2025** was clear and exciting: to experience a robotics competition for the first time and to represent our school in the **Future Engineers** category.  
 We want to establish a solid foundation for future students at our school, inspiring young people to get involved in robotics and helping promote its growth in Panama.
 
 ---
